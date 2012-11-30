@@ -27,14 +27,14 @@ The papers and their revision videos:
    Workshop on Hot Topics in Software Defined Networks (Hot-SDN), August 2012.
     * http://www.cs.brown.edu/~adf/work/HotSDN2012-paper.pdf
     * https://www.youtube.com/watch?v=MIrCSRjqpnA&hd=1
-
+  
  * Andrew D. Ferguson, Arjun Guha, Jordan Place, Rodrigo Fonseca, and Shriram
    Krishnamurthi. Participatory Networking. In Proc. Workshop on Hot Topics in
    Management of Internet, Cloud, and Enterprise Networks and Services
    (Hot-ICE), April 2012.
     * http://www.cs.brown.edu/~adf/work/HotICE2012-paper.pdf
     * https://www.youtube.com/watch?v=6oVqt5sW6qg&hd=1
-
+  
  * Andrew D. Ferguson, Peter Bodik, Srikanth Kandula, Eric Boutin and Rodrigo
    Fonseca. Jockey: Guaranteed Job Latency in Data Parallel Clusters. In ACM
    EuroSys 2012, April 2012.
@@ -45,6 +45,6 @@ The papers and their revision videos:
 Author and contact info:
 ---
 
-Andrew Ferguson
-adf@cs.brown.edu
+Andrew Ferguson  
+adf@cs.brown.edu  
 http://www.cs.brown.edu/~adf/
