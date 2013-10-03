@@ -2,7 +2,7 @@
 
 movie_path=`pwd`
 pdf_path="${movie_path}/pdfs"
-repo_path="${HOME}/ibm/nsdi13"
+repo_path="${HOME}/ibm/nsdi14-planck"
 png_path="${movie_path}/pngs"
 
 montage_path="/usr/local/Cellar/imagemagick/6.8.7-0/bin/montage"
@@ -20,7 +20,7 @@ if [ $? != 0 ]; then
     echo "unable to proceed"
     exit 1
 fi
-commits=`git log | egrep "^commit " | sed 's/commit //' | perl -e 'print reverse <>' | head -n 50`
+commits=`git log | egrep "^commit " | sed 's/commit //' | perl -e 'print reverse <>'`
 count=0
 for commit in $commits; do
     echo $commit
