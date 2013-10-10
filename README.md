@@ -22,6 +22,11 @@ to use and more generic are welcome. :-)
 The papers and their revision videos:
 ---
 
+ * Andrew D. Ferguson, Jordan Place, and Rodrigo Fonseca. Growth Analysis of a
+   Large ISP. In Proc. ACM Internet Measurement Conference, October 2013.
+    * http://www.cs.brown.edu/~adf/work/IMC2013-paper.pdf
+    * https://www.youtube.com/watch?v=QBEEoIM2PBQ&hd=1
+
  * Andrew D. Ferguson, Arjun Guha, Chen Liang, Rodrigo Fonseca, and Shriram
    Krishnamurthi. Participatory Networking: An API for Applicatoin Control of SDNs.
    In Proc. ACM SIGCOMM, August 2013.
