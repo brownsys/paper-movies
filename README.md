@@ -23,6 +23,12 @@ The papers and their revision videos:
 ---
 
  * Andrew D. Ferguson, Arjun Guha, Chen Liang, Rodrigo Fonseca, and Shriram
+   Krishnamurthi. Participatory Networking: An API for Applicatoin Control of SDNs.
+   In Proc. ACM SIGCOMM, August 2013.
+    * http://www.cs.brown.edu/~adf/work/SIGCOMM2013-paper.pdf
+    * https://www.youtube.com/watch?v=nyLSJjntK6I&hd=1
+
+ * Andrew D. Ferguson, Arjun Guha, Chen Liang, Rodrigo Fonseca, and Shriram
    Krishnamurthi. Hierarchical Policies for Software Defined Networks. In Proc.
    Workshop on Hot Topics in Software Defined Networks (Hot-SDN), August 2012.
     * http://www.cs.brown.edu/~adf/work/HotSDN2012-paper.pdf
